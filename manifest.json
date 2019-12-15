@@ -1,0 +1,23 @@
+{
+  "name" : "PanelUITest",
+  "host" : {
+    "app" : "XD",
+    "minVersion" : "21.0"
+  },
+  "id" : "26a4cc9e",
+  "icons" : [ {
+    "path" : "images/icon@1x.png",
+    "width" : 24,
+    "height" : 24
+  }, {
+    "path" : "images/icon@2x.png",
+    "width" : 48,
+    "height" : 48
+  } ],
+  "uiEntryPoints" : [ {
+    "label" : "Create Rectangle",
+    "type" : "menu",
+    "commandId" : "createRectangle"
+  } ],
+  "version" : "0.0.1"
+}

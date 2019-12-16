@@ -15,9 +15,9 @@
     "height" : 48
   } ],
   "uiEntryPoints" : [ {
-    "label" : "Create Rectangle",
-    "type" : "menu",
-    "commandId" : "createRectangle"
+    "label" : "Panel UI Test",
+    "type" : "panel",
+    "panelId" : "panelUITest"
   } ],
   "version" : "0.0.1"
 }
